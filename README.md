@@ -1,2 +1,3 @@
 # lib
-library
+
+Hampton Metaverse library
