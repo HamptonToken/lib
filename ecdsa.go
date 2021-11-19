@@ -13,7 +13,7 @@ import (
 	"encoding/pem"
 )
 
-
+/* ECDSA signing*/
 func EcdsaSign(privpem, input string) (rSig, sSig string, err error) {
         sum := sha256.Sum256([]byte(input))
         priv, err := parseEcdsaPrivateKeyFromPemStr(privpem)
