@@ -34,3 +34,24 @@ func RsaSign(privpem, input string) (string, error) {
 	return string(signature), nil
 
 }
+
+func RsaVerify(pubpem, input, signature string) bool{
+        var opts rsa.PSSOptions
+        opts.SaltLength = rsa.PSSSaltLengthAuto
+        rsaPublicKey, err := parseRsaPublicKeyFromPemStr(pubpem)
+        if (err != nil) {
+                fmt.Println(err)
+                return false
+        }
+
+        sum := sha256.Sum256([]byte(input))
+        err = rsa.VerifyPSS(rsaPublicKey, crypto.SHA256, sum[:32], []byte(signature), &opts)
+
+        if err != nil {
+                fmt.Println(err)
+                return false
+        }
+
+        return true
+}
+
