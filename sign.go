@@ -35,6 +35,7 @@ func RsaSign(privpem, input string) (string, error) {
 
 }
 
+/* verify with the public key */
 func RsaVerify(pubpem, input, signature string) bool{
         var opts rsa.PSSOptions
         opts.SaltLength = rsa.PSSSaltLengthAuto
