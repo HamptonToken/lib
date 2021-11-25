@@ -33,3 +33,32 @@ func EcdsaSign(privpem, input string) (rSig, sSig string, err error) {
 
 }
 
+func EcdsaVerify(pubpem, input, signature1, signature2 string) bool{
+
+        rSig := new(big.Int)
+        rSig, ok := rSig.SetString(signature1, 10)
+        if !ok {
+                fmt.Println("SetString: error")
+                return false
+        }
+
+        sSig := new(big.Int)
+        sSig, ok = sSig.SetString(signature2, 10)
+        if !ok {
+                fmt.Println("SetString: error")
+                return false
+        }
+
+        ecPublicKey, err := parseEcdsaPublicKeyFromPemStr(pubpem)
+        if (err != nil) {
+                fmt.Println(err)
+                return false
+        }
+
+        sum := sha256.Sum256([]byte(input))
+        valid := ecdsa.Verify(ecPublicKey, sum[:32], rSig, sSig)
+
+        return valid
+}
+
+
