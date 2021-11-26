@@ -33,6 +33,7 @@ func EcdsaSign(privpem, input string) (rSig, sSig string, err error) {
 
 }
 
+/* ECDSA verifying the input string*/
 func EcdsaVerify(pubpem, input, signature1, signature2 string) bool{
 
         rSig := new(big.Int)
