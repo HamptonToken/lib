@@ -1,4 +1,17 @@
+package sign
 
+import (
+        "crypto"
+        "crypto/x509"
+        "crypto/rsa"
+        "crypto/ecdsa"
+        "fmt"
+        "math/big"
+        "errors"
+        "crypto/sha256"
+        "crypto/rand"
+        "encoding/pem"
+)
 
 func parseRsaPrivateKeyFromPemStr(privPEM string) (*rsa.PrivateKey, error) {
     block, _ := pem.Decode([]byte(privPEM))
