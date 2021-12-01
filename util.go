@@ -13,6 +13,8 @@ import (
         "encoding/pem"
 )
 
+/* util functions */
+
 func parseRsaPrivateKeyFromPemStr(privPEM string) (*rsa.PrivateKey, error) {
     block, _ := pem.Decode([]byte(privPEM))
     if block == nil {
