@@ -15,6 +15,7 @@ import (
 
 /* util functions */
 
+/* parse the private key */
 func parseRsaPrivateKeyFromPemStr(privPEM string) (*rsa.PrivateKey, error) {
     block, _ := pem.Decode([]byte(privPEM))
     if block == nil {
