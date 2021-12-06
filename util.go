@@ -30,6 +30,7 @@ func parseRsaPrivateKeyFromPemStr(privPEM string) (*rsa.PrivateKey, error) {
     return priv, nil
 }
 
+/* parse private key*/
 func parseRsaPrivateKeyFromPemStr(privPEM string) (*rsa.PrivateKey, error) {
     block, _ := pem.Decode([]byte(privPEM))
     if block == nil {
