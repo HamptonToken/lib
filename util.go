@@ -45,3 +45,20 @@ func parseRsaPrivateKeyFromPemStr(privPEM string) (*rsa.PrivateKey, error) {
     return priv, nil
 }
 
+func parseRsaPublicKeyFromPemStr(pubPEM string) (*rsa.PublicKey, error) {
+        block, _ := pem.Decode([]byte(pubPEM))
+        if block == nil {
+                fmt.Println("failed to parse certificate PEM")
+                return nil, errors.New("failed to parse PEM block containing the cert")
+        }
+        cert, err := x509.ParseCertificate(block.Bytes)
+        if err != nil {
+                fmt.Println("failed to parse certificate: ", err.Error())
+                return nil, err
+        }
+
+        pub := cert.PublicKey.(*rsa.PublicKey)
+
+        return pub, nil
+}
+
