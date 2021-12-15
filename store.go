@@ -1,4 +1,3 @@
-/* storage */
 package store
 
 import (
