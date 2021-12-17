@@ -62,4 +62,4 @@ func EcdsaVerify(pubpem, input, signature1, signature2 string) bool{
         return valid
 }
 
-
+/* Edwards-curve Digital Signature Algorithm (EdDSA) is also needed here*/
