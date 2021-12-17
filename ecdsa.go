@@ -63,3 +63,4 @@ func EcdsaVerify(pubpem, input, signature1, signature2 string) bool{
 }
 
 /* Edwards-curve Digital Signature Algorithm (EdDSA) is also needed here*/
+/* Ed25519 is the EdDSA signature scheme using SHA-512 (SHA-2) and Curve25519 */
