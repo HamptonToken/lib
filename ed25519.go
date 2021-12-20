@@ -11,6 +11,7 @@ import (
 	"strconv"
 )
 
+/* sign with ed25519 private key */
 func sign(signature, privateKey, message []byte) {
 	if l := len(privateKey); l != PrivateKeySize {
 		panic("ed25519: bad private key length: " + strconv.Itoa(l))
