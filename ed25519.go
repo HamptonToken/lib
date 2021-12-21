@@ -49,7 +49,8 @@ func sign(signature, privateKey, message []byte) {
 // will panic if len(publicKey) is not PublicKeySize.
 func Verify(publicKey PublicKey, message, sig []byte) bool {
 	if l := len(publicKey); l != PublicKeySize {
-		panic("ed25519: bad public key length: " + strconv.Itoa(l))
+		return false
+		//panic("ed25519: bad public key length: " + strconv.Itoa(l))
 	}
 
 	if len(sig) != SignatureSize || sig[63]&224 != 0 {
