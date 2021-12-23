@@ -45,8 +45,7 @@ func sign(signature, privateKey, message []byte) {
 	copy(signature[32:], S.Bytes())
 }
 
-// Verify reports whether sig is a valid signature of message by publicKey. It
-// will panic if len(publicKey) is not PublicKeySize.
+// Verify reports whether sig is a valid signature of message by publicKey. 
 func Verify(publicKey PublicKey, message, sig []byte) bool {
 	if l := len(publicKey); l != PublicKeySize {
 		return false
