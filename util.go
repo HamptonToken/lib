@@ -64,6 +64,9 @@ func parseRsaPublicKeyFromPemStr(pubPEM string) (*rsa.PublicKey, error) {
 
 /* others */
 
-/*AES256-GCM*/
+/*AES256-GCM
+GCM is safer then CBC, and well adopted.
+Plus, GCM allows associated additional data(AAD).
+*/
 
 /*Chacha-Poly1035*/
