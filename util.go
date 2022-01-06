@@ -63,3 +63,7 @@ func parseRsaPublicKeyFromPemStr(pubPEM string) (*rsa.PublicKey, error) {
 }
 
 /* others */
+
+/*AES256-GCM*/
+
+/*Chacha-Poly1035*/
