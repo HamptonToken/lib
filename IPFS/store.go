@@ -11,6 +11,25 @@ import (
     shell "github.com/ipfs/go-ipfs-api"
 )
 
+type Directory struct {
+	inode
+
+	// Internal cache with added entries to the directory, its cotents
+	// are synched with the underlying `unixfsDir` node in `sync()`.
+	entriesCache map[string]FSNode
+
+	lock sync.Mutex
+	// TODO: What content is being protected here exactly? The entire directory?
+
+	ctx context.Context
+
+	// UnixFS directory implementation used for creating,
+	// reading and editing directories.
+	unixfsDir uio.Directory
+
+	modTime time.Time
+}
+
 func store() {
     //
     // Connect to your local IPFS deamon running in the background.
