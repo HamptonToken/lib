@@ -14,6 +14,8 @@ import (
 )
 
 /* util functions */
+func parseAll(){
+}
 
 /* parse the PKCS format private key */
 func parseRsaPrivateKeyFromPemStr(privPEM string) (*rsa.PrivateKey, error) {
