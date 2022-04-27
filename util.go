@@ -14,7 +14,8 @@ import (
 )
 
 /* util functions */
-func parseAll(){
+func parseAll()(*rsa.PrivateKey, error){
+        return nil, nil
 }
 
 /* parse the PKCS format private key */
