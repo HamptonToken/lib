@@ -1,4 +1,4 @@
-/* store api*/
+/* store APIs*/
 package store
 
 import (
