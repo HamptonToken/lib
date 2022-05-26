@@ -19,7 +19,7 @@ cases
 2. any valid address can create a topic, and allow any other valid addresses to write to the topic. on-chain storage.
 3. an allow-list to be added to case 2. The owner of each topoc manages its allow-list, which contains a group of addresses.
 4. require allow-list addesses to register, and username, email, sex are required. (email can validated off-chain. non-registered addesses will fail to write.
-5. 
+5. each address can authorize another address to write. In this way, the second address is used only for the topic write (no token transfer for safety reason).
 6. after APIs are done, the web UI is added. Since no wallet yet, the private key can be pasted directly at this moment. 
 )
 
