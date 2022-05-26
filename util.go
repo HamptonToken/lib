@@ -16,7 +16,7 @@ import (
 /*
 cases
 1. any valid address can write for single pre-defined topic. on-chain storage
-2. any valid address can create a topic, and write to the topic. on-chain storage.
+2. any valid address can create a topic, and allow any other valid addresses to write to the topic. on-chain storage.
 
 */
 
