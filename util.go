@@ -34,6 +34,7 @@ This method returns an object with a cid, size, cumulativeSize, type, blocks, wi
   blocks: 1,
   type: 'directory'
 }
+2. JS needs to finish a transaction which contains update off-chain file and update smart contract index.
 
 
 */
