@@ -25,6 +25,17 @@ cases for on-chain
 
 cases for off-chain
 1. use IPFS or IPFS-MFS
+await ipfs.files.stat('/example')
+This method returns an object with a cid, size, cumulativeSize, type, blocks, withLocality, local, and sizeLocal.
+{
+  hash: CID('QmXmJBmnYqXVuicUfn9uDCC8kxCEEzQpsAbeq1iJvLAmVs'),
+  size: 60,
+  cumulativeSize: 118,
+  blocks: 1,
+  type: 'directory'
+}
+
+
 */
 
 /* util functions */
