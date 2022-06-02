@@ -38,6 +38,7 @@ This method returns an object with a cid, size, cumulativeSize, type, blocks, wi
 3. registration and allow-list logic should be same. Anyone can change the off-chain file, but it will not be accpeted unless it's in allow-list.
 
 cases for encryption
+1. encrption: profile, message, authorizaion list?
 
 */
 
