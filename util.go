@@ -42,6 +42,8 @@ This method returns an object with a cid, size, cumulativeSize, type, blocks, wi
 cases for encryption
 1. encrption: profile, message, authorizaion list?
 
+1 to 1, and 1 to many, many to many
+
 */
 
 /* util functions */
