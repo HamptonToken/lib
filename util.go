@@ -44,7 +44,7 @@ cases for encryption
 2. 1 to 1, and 1 to many, many to many
 3. authentication and identity
 
-web-server for JS hosting
+web-server for JS API hosting
 */
 
 /* util functions */
