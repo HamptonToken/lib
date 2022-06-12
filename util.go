@@ -45,7 +45,7 @@ cases for encryption
 3. authentication and identity
 
 web-server for JS API hosting
-mar
+mars
 */
 
 /* util functions */
