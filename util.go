@@ -46,6 +46,7 @@ cases for encryption
 
 web-server for JS API hosting
 mars
+where to run? browser, wallet, webpage?
 */
 
 /* util functions */
