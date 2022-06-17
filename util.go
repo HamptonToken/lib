@@ -49,7 +49,7 @@ mars
 where to run? browser, wallet, webpage?
 DNF
 
-TODO:
+TODOs: a long list
 */
 
 /* util functions */
