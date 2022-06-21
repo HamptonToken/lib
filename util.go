@@ -50,7 +50,7 @@ where to run? browser, wallet, webpage?
 DNF
 
 TODOs: a long list
-duplicated storage
+duplicated storages
 */
 
 /* util functions */
