@@ -51,6 +51,7 @@ DNF
 
 TODOs: a long list
 duplicated storages
+signature verification
 */
 
 /* util functions */
