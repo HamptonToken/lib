@@ -53,6 +53,7 @@ TODOs: a long list
 duplicated storages
 signature verification
 authentication
+id management
 */
 
 /* util functions */
