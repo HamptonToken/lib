@@ -52,9 +52,8 @@ DNF
 TODOs: a long list
 duplicated storages
 signature verification
-authentication
+user authentication
 identity management
-
 */
 
 /* util functions */
