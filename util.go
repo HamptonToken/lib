@@ -54,6 +54,8 @@ duplicated storages
 signature verification
 user authentication
 identity management
+
+Ethereum compatible
 */
 
 /* util functions */
