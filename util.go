@@ -56,6 +56,7 @@ user authentication
 identity management
 
 Ethereum compatible but inherit the limitation of Ethereum.
+Incompatible and with more features.
 */
 
 /* util functions */
