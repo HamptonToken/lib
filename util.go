@@ -55,7 +55,7 @@ signature verification
 user authentication
 identity management
 
-Ethereum compatible
+Ethereum compatible but inherit the limitation of Ethereum.
 */
 
 /* util functions */
