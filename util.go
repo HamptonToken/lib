@@ -57,7 +57,7 @@ identity management
 
 Ethereum compatible but inherit the limitation of Ethereum.
 Incompatible and with more features.
-Limitations: block speed, small storage, relying on smart contracts.
+Limitations: block speed, small storage, relying on smart contracts, no encryption in contracts.
 */
 
 /* util functions */
