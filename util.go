@@ -58,7 +58,7 @@ identity management
 Ethereum compatible but inherit the limitation of Ethereum.
 Incompatible and with more features.
 Limitations: block speed, small storage, relying on smart contracts, no encryption in contracts.
-Others: Binance Smart Chain.
+Others: Binance Smart Chain. Avalanche
 */
 
 /* util functions */
