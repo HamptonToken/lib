@@ -60,7 +60,7 @@ Incompatible and with more features.
 Limitations: block speed, small storage, relying on smart contracts, no encryption in contracts.
 Others: Binance Smart Chain. Avalanche
 IPFS and Arweave
-others
+other storages
 */
 
 /* util functions */
