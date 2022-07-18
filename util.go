@@ -61,6 +61,8 @@ Limitations: block speed, small storage, relying on smart contracts, no encrypti
 Others: Binance Smart Chain. Avalanche
 IPFS and Arweave
 other storages
+
+Reliability
 */
 
 /* util functions */
