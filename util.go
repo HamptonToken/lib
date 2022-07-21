@@ -63,6 +63,7 @@ IPFS and Arweave
 other storages
 
 Reliability
+Scalability
 */
 
 /* util functions */
