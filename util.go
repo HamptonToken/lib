@@ -65,6 +65,7 @@ other storages
 Reliability
 Scalability
 large scale
+small scale
 */
 
 /* util functions */
