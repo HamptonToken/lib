@@ -70,11 +70,11 @@ middle scale test
 
 unit tests
 
-
 layer0
 layer1
 layer2
 layer3
+
 */
 
 /* util functions */
