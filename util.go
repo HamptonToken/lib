@@ -75,7 +75,7 @@ layer1
 layer2
 layer3
 
-readme in EM format
+readme in dot EM format
 */
 
 /* util functions */
