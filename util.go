@@ -77,6 +77,8 @@ layer3
 
 readme in dot EM format
 Here
+
+client encryption
 */
 
 /* util functions */
