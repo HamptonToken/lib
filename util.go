@@ -78,7 +78,8 @@ layer3
 readme in dot EM format
 Here
 
-client encryption
+client encryption or web-server 
+
 */
 
 /* util functions */
