@@ -80,7 +80,7 @@ Here
 
 client encryption or web-server 
 others
-
+no encryption mode
 */
 
 /* util functions */
