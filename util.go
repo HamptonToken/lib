@@ -81,6 +81,7 @@ Here
 client encryption or web-server 
 others
 no encryption mode
+yes
 */
 
 /* util functions */
