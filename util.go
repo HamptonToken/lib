@@ -82,7 +82,7 @@ client encryption or web-server
 others
 no encryption mode
 mixed encryption mode
-combined
+combined encryption
 */
 
 /* util functions */
