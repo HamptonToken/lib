@@ -83,7 +83,7 @@ others
 no encryption mode
 mixed encryption mode
 combined encryption mode
-traditional
+traditional mode
 */
 
 /* util functions */
