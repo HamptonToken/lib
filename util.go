@@ -84,6 +84,8 @@ no encryption mode
 mixed encryption mode
 combined encryption mode
 traditional mode
+
+design
 */
 
 /* util functions */
