@@ -85,7 +85,7 @@ mixed encryption mode
 combined encryption mode
 traditional mode
 
-design
+design risk model
 */
 
 /* util functions */
