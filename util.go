@@ -87,7 +87,7 @@ traditional mode
 
 design risk model
 policy
-enforcement
+enforcement function
 */
 
 /* util functions */
