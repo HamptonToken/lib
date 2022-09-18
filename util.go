@@ -89,7 +89,7 @@ design risk model
 policy
 enforcement function (related to the policies. need a mapping)
 assessment of policy
-Compliance
+Compliance in different regions
 */
 
 /* util functions */
