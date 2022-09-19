@@ -90,6 +90,7 @@ policy
 enforcement function (related to the policies. need a mapping)
 assessment of policy
 compliance in different regions(7)
+trust
 */
 
 /* util functions */
