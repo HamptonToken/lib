@@ -92,6 +92,7 @@ assessment of policy
 compliance in different regions(7)
 trust and safety
 Risk
+stoage
 */
 
 /* util functions */
