@@ -92,7 +92,8 @@ assessment of policy
 compliance in different regions(7)
 trust and safety
 Risk
-storage policy evaluation
+storage policy evaluation 
+formula
 */
 
 /* util functions */
