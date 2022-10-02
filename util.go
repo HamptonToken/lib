@@ -93,7 +93,7 @@ compliance in different regions(7)
 trust and safety
 Risk
 storage policy evaluation 
-formula, factor
+formula, factors
 */
 
 /* util functions */
