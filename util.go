@@ -94,6 +94,7 @@ trust and safety
 Risk
 storage policy evaluation 
 formula, factors
+formulae
 */
 
 /* util functions */
