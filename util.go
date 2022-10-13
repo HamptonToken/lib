@@ -96,6 +96,7 @@ storage policy evaluation
 formula, factors
 formulae versions
 set
+connect
 */
 
 /* util functions */
