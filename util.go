@@ -97,6 +97,7 @@ formula, factors
 formulae versions
 set
 connection
+conn-set
 */
 
 /* util functions */
