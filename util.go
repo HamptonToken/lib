@@ -97,7 +97,7 @@ formula, factors
 formulae versions
 set
 connection
-conn-set
+massive scale deletion in the graph
 */
 
 /* util functions */
