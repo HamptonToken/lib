@@ -99,7 +99,7 @@ set
 connection
 massive scale deletions in the graph
 
-zero-day
+zero-day issues.
 */
 
 /* util functions */
