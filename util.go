@@ -101,7 +101,7 @@ massive scale deletions in the graph
 
 zero-day issues, and the related windows.
 code base, and it's builds, and apps that they depend on
-graph
+graphs
 */
 
 /* util functions */
