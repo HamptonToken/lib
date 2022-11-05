@@ -1,6 +1,6 @@
 // for policy
 /*
 policy:
-category:
+categories:
 */
 package policy
