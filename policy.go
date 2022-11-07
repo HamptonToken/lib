@@ -2,6 +2,6 @@
 /*
 policy:
 categories:
-type:
+types:
 */
 package policy
