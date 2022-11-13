@@ -104,7 +104,7 @@ code base, and it's builds, and apps that they depend on
 graphs
 
 use cases:
-twitter
+simple twitter 
 */
 
 /* util functions */
