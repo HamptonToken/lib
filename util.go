@@ -105,7 +105,7 @@ graphs
 
 use cases:
 simple twitter 
-java
+java,rust
 */
 
 /* util functions */
