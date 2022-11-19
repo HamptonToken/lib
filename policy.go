@@ -5,5 +5,6 @@ policy:
 categories:
 types:
 item:
+language:
 */
 
