@@ -105,7 +105,7 @@ graphs
 
 use cases:
 simple twitter 
-java, rust, python
+java, rust, python, go, ruby
 
 */
 
