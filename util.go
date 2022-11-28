@@ -26,7 +26,7 @@ cases for on-chain
 
 challenges:
 what if it's a wallet?
-always need private keys(need good key management)
+always need private keys(need good key management)(mapping to password)
 
 
 cases for off-chain
