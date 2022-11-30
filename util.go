@@ -25,8 +25,8 @@ cases for on-chain
 6. after APIs are done, the web UI is added. Since no wallet yet, the private key can be pasted directly at this moment. 
 
 challenges:
-what if it's a wallet?
-always need private keys(need good key management)(mapping to password)
+1, what if it's a wallet?
+2, always need private keys(need good key management)(mapping to password)
 
 
 cases for off-chain
