@@ -27,7 +27,7 @@ cases for on-chain
 challenges:
 1, what if it's a wallet?
 2, always need private keys(need good key management)(mapping to password, better way) password storage and mapping
-3, authorization methods
+3, authorization methods. (?)
 
 cases for off-chain
 1. use IPFS or IPFS-MFS
