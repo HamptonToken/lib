@@ -29,6 +29,7 @@ challenges:
 2, always need private keys(need good key management)(mapping to password, better way) password storage and mapping
 3, authorization methods. (?)
 Summnary one:
+challenges
 
 cases for off-chain
 1. use IPFS or IPFS-MFS
