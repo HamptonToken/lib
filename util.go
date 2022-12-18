@@ -113,7 +113,7 @@ graphs
 use cases:
 simple twitter 
 java, rust, python(pyre, pysa), go, ruby, js
-js web3
+js web3, others
 
 */
 
