@@ -181,4 +181,4 @@ Plus, GCM allows associated additional data(AAD).
 /*openssl3.0.7 or backport*/
 /*new supported algorithms and extra */
 /*more algorithms */
-/* */
+/*FIPS 140-2 validation */
