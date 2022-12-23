@@ -186,5 +186,6 @@ Plus, GCM allows associated additional data(AAD).
 the introduction of the Provider concept. Providers collect together and make available algorithm implementations. 
 5 different providers as standard. 
 One of the standard providers available is the FIPS provider. This makes available FIPS validated cryptographic algorithms.
-Use of the low level APIs has been informally discouraged
+Use of the low level APIs has been informally discouraged.
+ENGINE API
 */
