@@ -182,3 +182,8 @@ Plus, GCM allows associated additional data(AAD).
 /*new supported algorithms and extra */
 /*more algorithms */
 /*FIPS 140-2 validation */
+/*
+the introduction of the Provider concept. Providers collect together and make available algorithm implementations. 
+ 5 different providers as standard. 
+One of the standard providers available is the FIPS provider. This makes available FIPS validated cryptographic algorithms.
+*/
