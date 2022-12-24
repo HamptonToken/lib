@@ -188,4 +188,6 @@ the introduction of the Provider concept. Providers collect together and make av
 One of the standard providers available is the FIPS provider. This makes available FIPS validated cryptographic algorithms.
 Use of the low level APIs has been informally discouraged.
 ENGINE API
+
+Certificate Management Protocol (CMP, RFC 4210), CRMF (RFC 4211),  HTTP transfer (RFC 6712)
 */
