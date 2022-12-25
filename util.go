@@ -30,6 +30,9 @@ challenges:
 3, authorization methods. (?)
 Summnary one:
 challenges
+(it does not make sense to have <username, email, sex>, we can allow self-defined ID which is either username or email. 
+Then we will verify the <ID, priv_key> insteand of <address, priv_key>. It does not help much because the private key is still needed. 
+What many users want should be username/password style.)
 
 cases for off-chain
 1. use IPFS or IPFS-MFS
