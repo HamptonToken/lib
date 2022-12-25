@@ -190,4 +190,5 @@ Use of the low level APIs has been informally discouraged.
 ENGINE API
 
 Certificate Management Protocol (CMP, RFC 4210), CRMF (RFC 4211),  HTTP transfer (RFC 6712)
+A proper HTTP(S) client in libcrypto supporting GET and POST, redirection, plain and ASN.1-encoded contents, proxies, and timeouts
 */
