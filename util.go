@@ -48,6 +48,7 @@ This method returns an object with a cid, size, cumulativeSize, type, blocks, wi
 2. JS needs to finish a transaction which contains update off-chain file and update smart contract index.
 3. registration and allow-list logic should be same. Anyone can change the off-chain file, but it will not be accpeted unless it's in allow-list.
 4. file based, or record based data storage.
+5. (per file encryption, per record encryption need to be discussed below)
 
 ============================================================================================================
 cases for encryption
