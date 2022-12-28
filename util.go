@@ -121,6 +121,8 @@ java, rust, python(pyre, pysa), go, ruby, js
 js web3, others
 
 review
+---------------------
+both interactive and non-interactive authentication
 */
 
 /* util functions */
