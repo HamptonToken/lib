@@ -51,6 +51,9 @@ This method returns an object with a cid, size, cumulativeSize, type, blocks, wi
 4. file based, or record based data storage.
 5. (per file encryption, per record encryption need to be discussed below)
 
+
+business user vs no business user to avoid censorship
+
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
