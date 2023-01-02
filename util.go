@@ -54,6 +54,9 @@ This method returns an object with a cid, size, cumulativeSize, type, blocks, wi
 
 business user vs no business user to avoid censorship
 
+$$$$$
+1. if a project is using EVM smart contract, how to also use it?
+
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
