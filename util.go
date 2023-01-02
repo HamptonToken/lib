@@ -56,6 +56,8 @@ business user vs no business user to avoid censorship
 
 $$$$$
 1. if a project is using EVM smart contract, how to also use it?
+EVM address should link to a COSMOS address (which can pay the gas fees if necessary). 
+Then we can authorize the EVM address.
 
 ============================================================================================================
 cases for encryption
