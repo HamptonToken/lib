@@ -59,6 +59,8 @@ $$$$$
 EVM address should link to a COSMOS address (which can pay the gas fees if necessary). 
 Then we can authorize the EVM address.
 
+2. the concept of 'role'.
+
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
