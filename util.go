@@ -62,6 +62,7 @@ Then we can authorize the EVM address.
 2. the concept of 'role'.
 
 !!!!! if using EVM
+EVM, cosmos, or EVMOS in cosmos
 
 ============================================================================================================
 cases for encryption
