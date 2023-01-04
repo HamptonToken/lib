@@ -61,6 +61,8 @@ Then we can authorize the EVM address.
 
 2. the concept of 'role'.
 
+!!!!! if using EVM
+
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
