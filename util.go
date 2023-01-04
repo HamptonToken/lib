@@ -63,6 +63,7 @@ Then we can authorize the EVM address.
 
 !!!!! if using EVM
 EVM, cosmos, or EVMOS in cosmos
+need to know if EVM can support all algorithm. If we use something other than hash functions.
 
 ============================================================================================================
 cases for encryption
