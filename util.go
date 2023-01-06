@@ -65,6 +65,8 @@ Then we can authorize the EVM address.
 EVM, cosmos, or EVMOS in cosmos
 need to know if EVM can support all algorithm. If we use something other than hash functions.
 
+3. Polygon
+
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
