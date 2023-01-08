@@ -67,6 +67,8 @@ need to know if EVM can support all algorithm. If we use something other than ha
 
 3. Polygon
 
+four categories: crypto user, non-crypto user, crypto developer, non-crypto developer
+
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
