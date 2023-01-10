@@ -69,6 +69,7 @@ need to know if EVM can support all algorithm. If we use something other than ha
 
 four categories: crypto user, non-crypto user, crypto developer, non-crypto developer
 
+don't need to mention privacy too much.
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
