@@ -71,6 +71,8 @@ four categories: crypto user, non-crypto user, crypto developer, non-crypto deve
 
 don't need to mention privacy too much.
 maybe not focus on personal dada. otherwise zero knowledge is not enough
+
+new design
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
