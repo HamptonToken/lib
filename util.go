@@ -81,6 +81,8 @@ MEETING NOTES:
 4, customized ipfs
 5, arbitrum code
 6, less personal data management
+
+TODO:
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
