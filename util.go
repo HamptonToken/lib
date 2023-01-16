@@ -73,6 +73,14 @@ don't need to mention privacy too much.
 maybe not focus on personal dada. otherwise zero knowledge is not enough
 
 new design with new doc. review the new design and merge
+
+MEETING NOTES:
+1, SSO, ALEO
+2, node management
+3, key custodian.
+4, customized ipfs
+5, arbitrum code
+6, less personal data management
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
