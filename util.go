@@ -83,6 +83,7 @@ MEETING NOTES:
 6, less personal data management
 
 TODO:
+key-value store
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
