@@ -85,6 +85,7 @@ MEETING NOTES:
 TODO:
 key-value store, with encryption
 chainlink oracle for data source, especially database.
+final
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
