@@ -83,9 +83,12 @@ MEETING NOTES:
 6, less personal data management
 
 TODO:
-key-value store, with encryption
+1, zero knowledge pass
+2, key-value store, with encryption
+3, dynamic passcode
+
+trial:
 chainlink oracle for data source, especially database.
-dynamic passcode
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
