@@ -87,6 +87,7 @@ TODO:
 2, key-value store, with encryption
 3, dynamic passcode
 
+use Key Regression
 trial:
 chainlink oracle for data source, especially database.
 ============================================================================================================
