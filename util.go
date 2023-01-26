@@ -88,6 +88,7 @@ TODO:
 3, dynamic passcode
 
 use Key Regression or symmetric link
+
 trial:
 chainlink oracle for data source, especially database.
 ============================================================================================================
