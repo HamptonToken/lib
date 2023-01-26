@@ -84,7 +84,7 @@ MEETING NOTES:
 
 TODO:
 1, zero knowledge pass
-2, key-value store, with encryption
+2, key-value store, with encryption (single owner, multiple owners)
 3, dynamic passcode
 
 use Key Regression or symmetric link
