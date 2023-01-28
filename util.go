@@ -91,6 +91,9 @@ use Key Regression or symmetric link
 
 trial:
 chainlink oracle for data source, especially database.
+
+FINAL:
+zero knowledge + wallet ++ evm + tendermint ++ file + key-value ++ improved ipfs
 ============================================================================================================
 cases for encryption
 1. encrption: profile, message, authorizaion list?
