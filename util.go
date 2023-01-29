@@ -97,7 +97,8 @@ zero knowledge + wallet ++
         evm + tendermint ++ 
                 file + key-value ++ 
                         improved ipfs
-
+------
+user cases
 
 
 
