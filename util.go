@@ -10,7 +10,6 @@ import (
         "errors"
         "crypto/sha256"
         "crypto/rand"
-        
         "encoding/pem"
 )
 
@@ -99,7 +98,7 @@ zero knowledge + wallet ++
                 file + key-value ++ 
                         improved ipfs
 ------
-user cases
+user cases: basic AWS components
 
 
 
