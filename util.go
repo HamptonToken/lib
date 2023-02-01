@@ -98,7 +98,7 @@ zero knowledge + wallet ++
                 file + key-value ++ 
                         improved ipfs
 ------
-user cases: basic AWS components
+user cases: basic AWS components, route53
 
 
 
