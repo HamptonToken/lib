@@ -19,7 +19,7 @@ AWS Elastic Beanstalk is an orchestration service offered by Amazon Web Services
                    such as "64bit Amazon Linux 2014.03 v1.1.0 running Ruby 2.0 (Puma)" or "64bit Debian jessie v2.0.7 running Python 3.4 (Preconfigured - Docker)".
                         Deployment requires a number of components to be defined: an 'application' as a logical container for the project, a 'version' 
                               which is a deployable build of the application executable, a 'configuration template' that contains configuration information for both 
-                                    the Beanstalk environment and for the product.[4] Finally an 'environment' combines a 'version' with a 'configuration' and 
+                                    the Beanstalk environment and for the product. Finally an 'environment' combines a 'version' with a 'configuration' and 
                                           deploys them. Executables themselves are uploaded as archive files to S3 beforehand and the 'version' is just a pointer to this.
 
 The Amazon Simple Workflow Service (Amazon SWF) makes it easy to build applications that coordinate work across distributed components. In Amazon SWF, 
