@@ -99,6 +99,7 @@ zero knowledge + wallet ++
                         improved ipfs
 ------
 user cases: basic AWS components, route53, 
+EC2, S3, (SQS based on EC2)
 
 
 
