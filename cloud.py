@@ -31,6 +31,27 @@ The Amazon Simple Workflow Service (Amazon SWF) makes it easy to build applicati
 ===========================================================================================
 low code
 
+List of Top Low-code Development Platforms
+Comparison Table of Low-code Platforms
+#1) Visual LANSA
+#2) Retool
+#3) The m-Power Development Platform
+#4) Quixy
+#5) Creatio
+#6) GeneXus
+#7) Zoho Creator
+#8) Web.com
+#9) UI Bakery
+#10) Strikingly
+#11) Appian
+#12) KiSSFLOW – BPM & Workflow Software
+#13) Mendix
+#14) OutSystems
+#15) Salesforce Lightning
+#16) Microsoft PowerApps
+#17) AppSheet
+#18) Google App Maker
+#19) FileMaker
 
 
 
