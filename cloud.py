@@ -60,6 +60,6 @@ AppSheet is an application that provides a no-code development platform for appl
                   field inspections, and personalized reporting.
 AppSheet was acquired by Google in January 2020.
 
-AWS services: CloudFront, API Gateway
+AWS services: CloudFront, API Gateway, Lamda
 
 */
