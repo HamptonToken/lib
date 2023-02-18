@@ -61,6 +61,6 @@ AppSheet is an application that provides a no-code development platform for appl
 AppSheet was acquired by Google in January 2020.
 
 AWS services: CloudFront, API Gateway, Lambda or EC2 web-server
-      KMS + DB
+      KMS + DB(relational and non-sql)
 
 */
