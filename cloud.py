@@ -62,5 +62,6 @@ AppSheet was acquired by Google in January 2020.
 
 AWS services: CloudFront, API Gateway, Lambda or EC2 web-server
       KMS + DB(relational and non-sql)
+decentralized db
 
 */
