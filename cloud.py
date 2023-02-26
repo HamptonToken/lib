@@ -68,4 +68,6 @@ comparison ddb and full solution
 
 research orbit
 
+react graphGL structure
+
 */
