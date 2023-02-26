@@ -66,6 +66,6 @@ decentralized db? which? list missing features
 
 comparison ddb and full solution
 
-research
+research orbit
 
 */
