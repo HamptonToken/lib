@@ -68,7 +68,6 @@ comparison ddb and full solution
 
 research orbit
 
-react graphGL structure:
-      * websocket
+react graphGL structure: over websocket, ajax
 
 */
