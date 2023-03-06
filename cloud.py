@@ -70,6 +70,6 @@ research orbit
 
 react graphGL structure: over websocket, ajax
       real problems: ecosystem, security
-            performance
+            performance (cache), replication
 
 */
