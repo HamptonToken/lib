@@ -72,5 +72,7 @@ react graphGL structure: over websocket, ajax
       real problems: ecosystem, security
             performance (cache), replication, prototyping
             reviewing
+            
+meeting notes:
 
 */
