@@ -74,6 +74,6 @@ react graphGL structure: over websocket, ajax
             reviewing
             
 meeting notes:
-      1.
+      1. focus on user cases
 
 */
