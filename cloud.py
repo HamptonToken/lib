@@ -75,6 +75,6 @@ react graphGL structure: over websocket, ajax
             
 meeting notes:
       1. focus on user cases
-      2. mastodon
+      2. mastodon (Mastodon is maintained by a network of independent servers that are managed by individual users or groups.)
 
 */
