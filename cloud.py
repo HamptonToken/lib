@@ -79,6 +79,6 @@ meeting notes:
       3. timeline, hashtag
       4. function
       5. platform for all social apps
-      6.
+      6. comparison
 
 */
