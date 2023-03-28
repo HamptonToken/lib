@@ -80,5 +80,6 @@ meeting notes:
       4. function
       5. platform for all social apps
       6. comparison
+      7. new from L
 
 */
