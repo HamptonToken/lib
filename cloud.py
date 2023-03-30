@@ -81,6 +81,6 @@ meeting notes:
       5. platform for all social apps
       6. comparison
       7. new from L
-      8.
+      8. DSP
 
 */
