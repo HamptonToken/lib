@@ -82,6 +82,6 @@ meeting notes:
       6. comparison
       7. new from L
       8. DSP
-      9.
+      9. new innovation
 
 */
