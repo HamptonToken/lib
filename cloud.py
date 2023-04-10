@@ -83,6 +83,6 @@ meeting notes:
       7. new from L
       8. DSP
       9. new innovations web2 to 3.
-      10. Kleiner penkins
+      10. kleiner perkins
 
 */
