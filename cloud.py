@@ -84,6 +84,6 @@ meeting notes:
       8. DSP
       9. new innovations web2 to 3.
       10. kleiner perkins
-      11. landing
+      11. landing, eco
 
 */
