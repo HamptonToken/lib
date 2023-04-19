@@ -85,6 +85,6 @@ meeting notes:
       9. new innovations web2 to 3.
       10. kleiner perkins
       11. landing, eco
-      12. move
+      12. move language
 
 */
