@@ -86,5 +86,6 @@ meeting notes:
       10. kleiner perkins
       11. landing, eco
       12. moving languages 13. algo
+      now
 
 */
