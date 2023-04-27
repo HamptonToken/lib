@@ -87,5 +87,7 @@ meeting notes:
       11. landing, eco
       12. moving languages 13. algo
       now
+      
+      1. presentation doc
 
 */
