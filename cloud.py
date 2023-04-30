@@ -88,6 +88,6 @@ meeting notes:
       12. moving languages 13. algo
       now
       
-      1. presentation doc, gdoc
+      1. presentation doc, gdocc
 
 */
