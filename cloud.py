@@ -89,6 +89,6 @@ meeting notes:
       now
       
       1. presentation doc, gdoc info
-      2.
+      2. new
 
 */
