@@ -90,6 +90,6 @@ meeting notes:
       
       1. presentation doc, gdoc info
       2. new
-      3.
+      3. chat
 
 */
