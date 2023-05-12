@@ -91,7 +91,7 @@ meeting notes:
       1. presentation doc, gdoc info
       2. new
       3. chatgpt
-      4.
+      4. bill
       5. tom
 
 */
