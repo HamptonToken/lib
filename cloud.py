@@ -93,8 +93,6 @@ meeting notes:
       3. chatgpt
       4. bill
       5. tom
-      6.
-      7.
-      8.
+      6. algorithm
 
 */
