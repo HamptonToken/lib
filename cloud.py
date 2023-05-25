@@ -93,6 +93,6 @@ meeting notes:
       3. chatgpt
       4. bill
       5. tom
-      6. algorithms
+      6. algorithms, openai
 
 */
