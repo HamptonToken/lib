@@ -95,6 +95,6 @@ meeting notes:
       5. tom
       6. algorithms, openai API
       7. 
-      8
+      8.
 
 */
