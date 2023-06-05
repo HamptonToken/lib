@@ -94,6 +94,6 @@ meeting notes:
       4. bill
       5. tom
       6. algorithms, openai API
-      7. 
+      7. ai
 
 */
