@@ -96,6 +96,6 @@ meeting notes:
       6. algorithms, openai API
       7. ai, xr, new, opus
       8. .aar file
-      9.
+      9. .ai
 
 */
