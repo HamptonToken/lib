@@ -97,6 +97,6 @@ meeting notes:
       7. ai, xr, new, opus
       8. .aar file
       9. parameter trainings
-      10. sam ppark. thread
+      10. sam ppark. threads
 
 */
