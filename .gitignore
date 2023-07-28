@@ -15,6 +15,7 @@
 *.war
 *.a
 *.bin
+*.ai
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
