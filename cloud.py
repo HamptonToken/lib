@@ -99,7 +99,7 @@ meeting notes:
       9. parameter trainings
       10. sam ppark. threads.
       11. gpts
-      12. xai = ai +
+      12. xai = ai + x
                                         
 
 */
