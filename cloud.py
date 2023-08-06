@@ -54,6 +54,7 @@ Comparison Table of Low-code Platforms
 #17) AppSheet
 #18) Google App Maker
 #19) FileMaker
+#
 
 
 AppSheet is an application that provides a no-code development platform for application software, which allows users to create mobile, tablet, 
