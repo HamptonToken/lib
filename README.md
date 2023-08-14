@@ -6,6 +6,6 @@ This is the library for the platform.
 The related algorithms include RSA, ECDSA, ED25519, Multi-Signature, re-encryption, zk-SNARK.
 more
 
-# API
+# APIs
 
 # Others
