@@ -104,5 +104,5 @@ meeting notes:
       11. gpts
       12. xai = ai + x + hardware
                                         
-
+sum
 */
