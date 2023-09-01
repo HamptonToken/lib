@@ -103,6 +103,8 @@ meeting notes:
       10. sam ppark. threads.
       11. gpts
       12. xai = ai + x + hardware
+      13.14.15.
+
                                         
 sum
 */
