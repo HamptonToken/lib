@@ -8,4 +8,4 @@ more
 
 # APIs
 
-# Others
+# Other
