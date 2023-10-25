@@ -13,7 +13,7 @@ import (
 	"encoding/pem"
 )
 
-/* sign with the priv pem */
+/* sign with the private pem */
 func RsaSign(privpem, input string) (string, error) {
 	sum := sha256.Sum256([]byte(input))
 	priv, err := parseRsaPrivateKeyFromPemStr(privpem)
