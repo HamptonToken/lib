@@ -10,7 +10,7 @@ import (
     shell "github.com/ipfs/go-ipfs-api"
 )
 
-/* high level APIs here */
+/* high level APIs be here */
 
 /*
 >>> import ipfsApi
