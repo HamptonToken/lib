@@ -8,7 +8,7 @@
 *.test
 *.tst.
 
-# Output of the go coverage tool, specifically when used with LiteIDE
+# Output of the go coverage tool, specifically when used with LiteIDEc
 *.out
 *.jar
 *.tar
