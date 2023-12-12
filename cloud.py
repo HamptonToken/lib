@@ -1,5 +1,5 @@
 /*
-The review of all the cases.
+The review of all the user cases.
 
 1, SQS, S3, EC2
 2,  SimpleDB, Mechanical Turk, Elastic Block Store, Elastic Beanstalk, Relational Database Service, DynamoDB, 
